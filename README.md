@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/l-m-neeraja/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/l-m-neeraja/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/l-m-neeraja/Leetcode/tree/master/0682-baseball-game) |
 | [0885-spiral-matrix-iii](https://github.com/l-m-neeraja/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/l-m-neeraja/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0999-available-captures-for-rook](https://github.com/l-m-neeraja/Leetcode/tree/master/0999-available-captures-for-rook) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/l-m-neeraja/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/l-m-neeraja/Leetcode/tree/master/0682-baseball-game) |
 | [0885-spiral-matrix-iii](https://github.com/l-m-neeraja/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/l-m-neeraja/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0999-available-captures-for-rook](https://github.com/l-m-neeraja/Leetcode/tree/master/0999-available-captures-for-rook) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/l-m-neeraja/Leetcode/tree/master/1925-count-square-sum-triples) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/l-m-neeraja/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
