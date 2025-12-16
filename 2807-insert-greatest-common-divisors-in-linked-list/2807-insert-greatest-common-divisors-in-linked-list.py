@@ -10,7 +10,5 @@ class Solution:
             x=temp.next
             temp.next=ListNode(math.gcd(temp.val,x.val))
             temp.next.next=x
-            if flag==1:
-                break
             temp=temp.next.next
         return head
