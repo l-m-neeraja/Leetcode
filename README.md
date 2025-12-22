@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/l-m-neeraja/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/l-m-neeraja/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2670-find-the-distinct-difference-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/l-m-neeraja/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
+| [2670-find-the-distinct-difference-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/l-m-neeraja/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
