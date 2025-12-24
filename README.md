@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/l-m-neeraja/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/l-m-neeraja/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/l-m-neeraja/Leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/l-m-neeraja/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/l-m-neeraja/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/l-m-neeraja/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Monotonic Stack
 |  |
