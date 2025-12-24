@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/l-m-neeraja/Leetcode/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/l-m-neeraja/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/l-m-neeraja/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/l-m-neeraja/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
+| [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2670-find-the-distinct-difference-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/l-m-neeraja/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
+| [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/l-m-neeraja/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Prefix Sum
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/l-m-neeraja/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0148-sort-list) |
+| [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Merge Sort
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/l-m-neeraja/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/l-m-neeraja/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
