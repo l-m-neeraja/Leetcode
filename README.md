@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/l-m-neeraja/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/l-m-neeraja/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/l-m-neeraja/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Matrix
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/l-m-neeraja/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/l-m-neeraja/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/l-m-neeraja/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/l-m-neeraja/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -226,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/l-m-neeraja/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/l-m-neeraja/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
