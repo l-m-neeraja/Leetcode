@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/l-m-neeraja/Leetcode/tree/master/0739-daily-temperatures) |
 | [0885-spiral-matrix-iii](https://github.com/l-m-neeraja/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/l-m-neeraja/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0999-available-captures-for-rook](https://github.com/l-m-neeraja/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1109-corporate-flight-bookings](https://github.com/l-m-neeraja/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2670-find-the-distinct-difference-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
