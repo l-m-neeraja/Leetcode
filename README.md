@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/l-m-neeraja/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/l-m-neeraja/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/l-m-neeraja/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [3794-reverse-string-prefix](https://github.com/l-m-neeraja/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
 | ------- |
