@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/l-m-neeraja/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/l-m-neeraja/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/l-m-neeraja/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/l-m-neeraja/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/l-m-neeraja/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/l-m-neeraja/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3794-reverse-string-prefix](https://github.com/l-m-neeraja/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/l-m-neeraja/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3074-apple-redistribution-into-boxes](https://github.com/l-m-neeraja/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/l-m-neeraja/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
