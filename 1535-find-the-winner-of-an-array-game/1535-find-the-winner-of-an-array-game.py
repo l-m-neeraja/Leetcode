@@ -1,22 +1,17 @@
 class Solution(object):
     def getWinner(self, arr, k):
         n = len(arr)
-        
-        # If k >= n, maximum element will definitely win
         if k >= n:
             return max(arr)
-        
-        champion = arr[0]
+        champ = arr[0]
         win_count = 0
-        
         for i in range(1, n):
-            if champion > arr[i]:
+            if champ > arr[i]:
                 win_count += 1
             else:
-                champion = arr[i]
+                champ = arr[i]
                 win_count = 1
-            
             if win_count == k:
-                return champion
+                return champ
         
-        return champion
+        return champ
