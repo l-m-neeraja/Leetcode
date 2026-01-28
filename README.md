@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/l-m-neeraja/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0999-available-captures-for-rook](https://github.com/l-m-neeraja/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/l-m-neeraja/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1603-design-parking-system](https://github.com/l-m-neeraja/Leetcode/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/l-m-neeraja/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/l-m-neeraja/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/l-m-neeraja/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/l-m-neeraja/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1929-concatenation-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
