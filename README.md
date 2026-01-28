@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/l-m-neeraja/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1603-design-parking-system](https://github.com/l-m-neeraja/Leetcode/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/l-m-neeraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/l-m-neeraja/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/l-m-neeraja/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/l-m-neeraja/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/l-m-neeraja/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/l-m-neeraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/l-m-neeraja/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/l-m-neeraja/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/l-m-neeraja/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/l-m-neeraja/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/l-m-neeraja/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/l-m-neeraja/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/l-m-neeraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/l-m-neeraja/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
