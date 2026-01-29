@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/l-m-neeraja/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/l-m-neeraja/Leetcode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/l-m-neeraja/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/l-m-neeraja/Leetcode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/l-m-neeraja/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/l-m-neeraja/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
