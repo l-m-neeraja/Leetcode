@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/l-m-neeraja/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/l-m-neeraja/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/l-m-neeraja/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/l-m-neeraja/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/l-m-neeraja/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/l-m-neeraja/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/l-m-neeraja/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/l-m-neeraja/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
