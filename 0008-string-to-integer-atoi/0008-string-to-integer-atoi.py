@@ -4,25 +4,23 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        if len(s)==0:
-            return 0
         s=s.lstrip()
         if len(s)==0:
             return 0
-          
         if s[0]=='-':
             a=-1
         else:
             a=1
         if s[0]=='-' or s[0]=='+':
+            if len(s)==1:
+                return 0
             s=s[1:]
-        if len(s)==0:
-            return 0
         b=""
         if ord(s[0])>=48 and ord(s[0])<=57:
-            for i in s:
-                if ord(i)>=48 and ord(i)<=57:
-                    b+=i
+            b+=s[0]
+            for i in range(1,len(s)):
+                if ord(s[i])>=48 and ord(s[i])<=57:
+                    b+=s[i]
                 else:
                     break
         else:
