@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/l-m-neeraja/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/l-m-neeraja/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/l-m-neeraja/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3379-transformed-array](https://github.com/l-m-neeraja/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/l-m-neeraja/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/l-m-neeraja/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2670-find-the-distinct-difference-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/l-m-neeraja/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/l-m-neeraja/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/l-m-neeraja/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2487-remove-nodes-from-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/l-m-neeraja/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
