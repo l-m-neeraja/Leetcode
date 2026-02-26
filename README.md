@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/l-m-neeraja/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0999-available-captures-for-rook](https://github.com/l-m-neeraja/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/l-m-neeraja/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/l-m-neeraja/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1603-design-parking-system](https://github.com/l-m-neeraja/Leetcode/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/l-m-neeraja/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/l-m-neeraja/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/l-m-neeraja/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/l-m-neeraja/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/l-m-neeraja/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/l-m-neeraja/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/l-m-neeraja/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1310-xor-queries-of-a-subarray](https://github.com/l-m-neeraja/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/l-m-neeraja/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/l-m-neeraja/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/l-m-neeraja/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/l-m-neeraja/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
