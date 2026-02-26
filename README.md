@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/l-m-neeraja/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/l-m-neeraja/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/l-m-neeraja/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/l-m-neeraja/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/l-m-neeraja/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/l-m-neeraja/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/l-m-neeraja/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/l-m-neeraja/Leetcode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/l-m-neeraja/Leetcode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/l-m-neeraja/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/l-m-neeraja/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/l-m-neeraja/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/l-m-neeraja/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/l-m-neeraja/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/l-m-neeraja/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/l-m-neeraja/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/l-m-neeraja/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -411,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-smallest-string-starting-from-leaf](https://github.com/l-m-neeraja/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/l-m-neeraja/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
