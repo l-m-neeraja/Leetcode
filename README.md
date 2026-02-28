@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/l-m-neeraja/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/l-m-neeraja/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1603-design-parking-system](https://github.com/l-m-neeraja/Leetcode/tree/master/1603-design-parking-system) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/l-m-neeraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/l-m-neeraja/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/l-m-neeraja/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/l-m-neeraja/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/l-m-neeraja/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/l-m-neeraja/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/l-m-neeraja/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/l-m-neeraja/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/l-m-neeraja/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/l-m-neeraja/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/l-m-neeraja/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Prefix Sum
