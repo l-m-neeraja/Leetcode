@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/l-m-neeraja/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/l-m-neeraja/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/l-m-neeraja/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/l-m-neeraja/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/l-m-neeraja/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
