@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/l-m-neeraja/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/l-m-neeraja/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/l-m-neeraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/l-m-neeraja/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/l-m-neeraja/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/l-m-neeraja/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/l-m-neeraja/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/l-m-neeraja/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/l-m-neeraja/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/l-m-neeraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/l-m-neeraja/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/l-m-neeraja/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/l-m-neeraja/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/l-m-neeraja/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/l-m-neeraja/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2562-find-the-array-concatenation-value](https://github.com/l-m-neeraja/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
