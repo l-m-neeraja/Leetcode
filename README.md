@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/l-m-neeraja/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/l-m-neeraja/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/l-m-neeraja/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/l-m-neeraja/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/l-m-neeraja/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/l-m-neeraja/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/l-m-neeraja/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/l-m-neeraja/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/l-m-neeraja/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/l-m-neeraja/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/l-m-neeraja/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/l-m-neeraja/Leetcode/tree/master/0342-power-of-four) |
 | [2487-remove-nodes-from-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
