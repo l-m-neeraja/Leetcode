@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/l-m-neeraja/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/l-m-neeraja/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/l-m-neeraja/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/l-m-neeraja/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/l-m-neeraja/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/l-m-neeraja/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/l-m-neeraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
