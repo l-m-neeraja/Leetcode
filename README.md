@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/l-m-neeraja/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/l-m-neeraja/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/l-m-neeraja/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/l-m-neeraja/Leetcode/tree/master/0860-lemonade-change) |
 | [0885-spiral-matrix-iii](https://github.com/l-m-neeraja/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/l-m-neeraja/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0912-sort-an-array) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/l-m-neeraja/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/l-m-neeraja/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/l-m-neeraja/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/l-m-neeraja/Leetcode/tree/master/0860-lemonade-change) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/l-m-neeraja/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3074-apple-redistribution-into-boxes](https://github.com/l-m-neeraja/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
