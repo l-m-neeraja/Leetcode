@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/l-m-neeraja/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/l-m-neeraja/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1861-rotating-the-box](https://github.com/l-m-neeraja/Leetcode/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1980-find-unique-binary-string](https://github.com/l-m-neeraja/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/l-m-neeraja/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1861-rotating-the-box](https://github.com/l-m-neeraja/Leetcode/tree/master/1861-rotating-the-box) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/l-m-neeraja/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Queue
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/l-m-neeraja/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/l-m-neeraja/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1861-rotating-the-box](https://github.com/l-m-neeraja/Leetcode/tree/master/1861-rotating-the-box) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/l-m-neeraja/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
