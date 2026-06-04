@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/l-m-neeraja/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/l-m-neeraja/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/l-m-neeraja/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/l-m-neeraja/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
