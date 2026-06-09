@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/l-m-neeraja/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3637-trionic-array-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3838-weighted-word-mapping](https://github.com/l-m-neeraja/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/l-m-neeraja/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/l-m-neeraja/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3074-apple-redistribution-into-boxes](https://github.com/l-m-neeraja/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/l-m-neeraja/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3689-maximum-total-subarray-value-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Geometry
 |  |
 | ------- |
