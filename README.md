@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/l-m-neeraja/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3379-transformed-array](https://github.com/l-m-neeraja/Leetcode/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/l-m-neeraja/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/l-m-neeraja/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-find-the-encrypted-string](https://github.com/l-m-neeraja/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/l-m-neeraja/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/l-m-neeraja/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/l-m-neeraja/Leetcode/tree/master/3838-weighted-word-mapping) |
