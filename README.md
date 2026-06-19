@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/l-m-neeraja/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/l-m-neeraja/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1732-find-the-highest-altitude](https://github.com/l-m-neeraja/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1861-rotating-the-box](https://github.com/l-m-neeraja/Leetcode/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/l-m-neeraja/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1310-xor-queries-of-a-subarray](https://github.com/l-m-neeraja/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/l-m-neeraja/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/l-m-neeraja/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/l-m-neeraja/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/l-m-neeraja/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
