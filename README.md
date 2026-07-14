@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/l-m-neeraja/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/l-m-neeraja/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/l-m-neeraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/l-m-neeraja/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2562-find-the-array-concatenation-value](https://github.com/l-m-neeraja/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/l-m-neeraja/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/l-m-neeraja/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/l-m-neeraja/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/l-m-neeraja/Leetcode/tree/master/0258-add-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/l-m-neeraja/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/l-m-neeraja/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/l-m-neeraja/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/l-m-neeraja/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/l-m-neeraja/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/l-m-neeraja/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/l-m-neeraja/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
