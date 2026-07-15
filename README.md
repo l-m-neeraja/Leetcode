@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/l-m-neeraja/Leetcode/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3701-compute-alternating-sum](https://github.com/l-m-neeraja/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/l-m-neeraja/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/l-m-neeraja/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/l-m-neeraja/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3701-compute-alternating-sum](https://github.com/l-m-neeraja/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/l-m-neeraja/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3838-weighted-word-mapping](https://github.com/l-m-neeraja/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/l-m-neeraja/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
