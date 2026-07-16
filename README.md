@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/l-m-neeraja/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/l-m-neeraja/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/l-m-neeraja/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/l-m-neeraja/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0860-lemonade-change](https://github.com/l-m-neeraja/Leetcode/tree/master/0860-lemonade-change) |
 | [0885-spiral-matrix-iii](https://github.com/l-m-neeraja/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/l-m-neeraja/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/l-m-neeraja/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/l-m-neeraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/l-m-neeraja/Leetcode/tree/master/0645-set-mismatch) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/l-m-neeraja/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/l-m-neeraja/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1200-minimum-absolute-difference](https://github.com/l-m-neeraja/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/l-m-neeraja/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/l-m-neeraja/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/l-m-neeraja/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/l-m-neeraja/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0844-backspace-string-compare](https://github.com/l-m-neeraja/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/l-m-neeraja/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/l-m-neeraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/l-m-neeraja/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/l-m-neeraja/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/l-m-neeraja/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/l-m-neeraja/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2540-minimum-common-value](https://github.com/l-m-neeraja/Leetcode/tree/master/2540-minimum-common-value) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/l-m-neeraja/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
