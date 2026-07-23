@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/l-m-neeraja/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/l-m-neeraja/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/l-m-neeraja/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/l-m-neeraja/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/l-m-neeraja/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/l-m-neeraja/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0268-missing-number) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/l-m-neeraja/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/l-m-neeraja/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/l-m-neeraja/Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0148-sort-list) |
