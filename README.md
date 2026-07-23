@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/l-m-neeraja/Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/l-m-neeraja/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/l-m-neeraja/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/l-m-neeraja/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/l-m-neeraja/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/l-m-neeraja/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/l-m-neeraja/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/l-m-neeraja/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/l-m-neeraja/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/l-m-neeraja/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/l-m-neeraja/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/l-m-neeraja/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/l-m-neeraja/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/l-m-neeraja/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/l-m-neeraja/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/l-m-neeraja/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/l-m-neeraja/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/l-m-neeraja/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/l-m-neeraja/Leetcode/tree/master/0268-missing-number) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/l-m-neeraja/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/l-m-neeraja/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/l-m-neeraja/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/l-m-neeraja/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/l-m-neeraja/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/l-m-neeraja/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/l-m-neeraja/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
